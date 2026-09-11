@@ -1,0 +1,9 @@
+{
+    "balance": 253.0,
+    "history": [
+        "Deposit: R500.00 | Balance: R500.00",
+        "Withdrawal: R200.00 | Balance: R300.00",
+        "Deposit: R50.00 | Balance: R403.00",
+        "Withdrawal: R150.00 | Balance: R253.00"
+    ]
+}

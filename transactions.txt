@@ -1,0 +1,2 @@
+Deposit: R500.00 | Balance: R500.00
+Withdrawal: R200.00 | Balance: R300.00
