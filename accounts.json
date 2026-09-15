@@ -1,1 +1,29 @@
-{}
+{
+    "Anne": {
+        "owner": "Anne",
+        "account_type": "SavingsAccount",
+        "balance": 2050.0,
+        "history": [
+            "Anne deposited R1000.00",
+            "Interest added: R50.00",
+            "Anne deposited R1000.00"
+        ]
+    },
+    "John ": {
+        "owner": "John ",
+        "account_type": "BusinessAccount",
+        "balance": 0.0,
+        "history": []
+    },
+    "ABC Trading ": {
+        "owner": "ABC Trading ",
+        "account_type": "BusinessAccount",
+        "balance": 4850.0,
+        "history": [
+            "ABC Trading  deposited R5000.00",
+            "Monthly fee charged: R50.00",
+            "Monthly fee charged: R50.00",
+            "Monthly fee charged: R50.00"
+        ]
+    }
+}
